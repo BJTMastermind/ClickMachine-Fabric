@@ -2,6 +2,7 @@
 	<img src="resources/clickmachine.png", width=128, height=128>
 	<h1 align="center">Click Machine (Fabric)</h1>
 	<p align="center">Adds a single block that acts like a player's mouse click.</p>
+	<p align="center">Requires <b><a href="https://github.com/BJTMastermind/Placebo-Fabric">Placebo-Fabric</a></b></p>
 </p>
 
 ## About
