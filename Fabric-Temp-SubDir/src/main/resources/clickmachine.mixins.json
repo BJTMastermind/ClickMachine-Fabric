@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "shadows.click.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "ClickMachineMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
